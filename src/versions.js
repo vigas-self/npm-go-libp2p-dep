@@ -4,9 +4,9 @@
 module.exports = {
   latest: 'v0.11.0',
   'v0.11.0': {
-    'darwin': 'QmbRgQrwZFyR6cjwuN6dgSfadmr9KrLmM72hRJ1B3K6659',
-    'linux': 'QmW6hANCx63LR2Unb8TWwB7UkDC2SNKUV5QbaWzSyjsoPf',
-    'win32': 'QmW9zNiN8VL59UbC2DmStQoxdy7TTnZfNsTXBVSn9NR9Wy'
+    'darwin': 'QmToyiPk4fGXAsYkwucZ45fJB6Gpoo6xYuCPxj638FDJRh',
+    'linux': 'QmcBRrHt7AsXgzDumFNwT4X7wr43za212hnstCdS7kScwV',
+    'win32': 'QmQgW4QhLfff2WQeWnUMXP9nxp9ZK2E9FTkqBTryoDcDR1'
   },
   'v0.8.1': {
     'darwin': 'QmSSvbrXjWNfTmTZ3Xe1jqpFXdo5iFxEn8EsviuDFTeUdy',
